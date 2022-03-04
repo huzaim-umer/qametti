@@ -1,0 +1,2 @@
+define("@widget/RSS/bs-rss3-router-8398889d.js",["exports","~/c/bs-router","~/bs-rss3-rssFeeds"],(function(s,e,t){"use strict";class r extends e.R{constructor(){super(...arguments),this.RssFeeds=t.default,this.imgParams="rs=w:200"}}s.default=r,Object.defineProperty(s,"__esModule",{value:!0})})),"undefined"!=typeof window&&(window.global=window);
+//# sourceMappingURL=bs-rss3-router-8398889d.js.map
